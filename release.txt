@@ -1,0 +1,8 @@
+/**
+ * Release.
+ *
+ * @author  felipepellizzon
+ * @since   2022-08-17 
+ * @version 1.0.0
+ */
+-Start projeto - #43
