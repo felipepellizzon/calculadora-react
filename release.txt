@@ -6,3 +6,14 @@
  * @version 1.0.0
  */
 -Start projeto - #43
+
+/**
+ * Release.
+ *
+ * @author  felipepellizzon
+ * @since   2022-08-19 
+ * @version 1.0.1
+ */
+-Componente Calculator - #44
+-Componente Display - #46
+-Componente Button 1, 2 - #45 # 47
